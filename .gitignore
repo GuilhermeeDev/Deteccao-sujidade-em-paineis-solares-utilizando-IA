@@ -7,6 +7,11 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+train/
+dataset/
+datasets/
+images/
+virtual-env/
 .Python
 build/
 develop-eggs/

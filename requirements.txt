@@ -1,0 +1,9 @@
+torch
+torchvision
+python-dotenv
+python-multipart
+opencv-python
+ultralytics
+transformers
+Django
+huggingface-hub
